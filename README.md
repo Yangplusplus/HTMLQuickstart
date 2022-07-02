@@ -1,2 +1,2 @@
 # Quickstart Guide
-> git clone https://github.com/
+> git clone https://github.com/Yangplusplus/HTMLQuickstart.git
